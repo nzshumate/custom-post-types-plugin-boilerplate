@@ -7,5 +7,5 @@ Custom Post Type Boilerplate Plugin Documentation
  * License:           MIT
 ---
 ## Description
-A boilerplate to kickstart custom post type development.
+A boilerplate to kickstart custom post type development. 
 **ref:** https://codex.wordpress.org/Function_Reference/register_post_type
